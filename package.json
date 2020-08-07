@@ -1,0 +1,23 @@
+{
+  "name": "header10",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "watch:sass": "node-sass sass/main.scss assets/styles.css -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TarifChandan/header10.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TarifChandan/header10/issues"
+  },
+  "homepage": "https://github.com/TarifChandan/header10#readme",
+  "dependencies": {
+    "node-sass": "^4.14.1"
+  }
+}
